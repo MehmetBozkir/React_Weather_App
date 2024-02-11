@@ -9,7 +9,7 @@ A Weather App Via Api | Reactjs, Axios ,Tailwindcss and Daisyui.
 <br> 
   
   :wrench: Features 
-  ---------------------
+  ----------------------
 
   
 API testing via Axios
