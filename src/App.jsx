@@ -3,6 +3,7 @@ import './App.css'
 import WeatherApp from './Component/WeatherApp';
 import Navbar from './Component/Navbar';
 import Footer from './Component/Footer';
+import Cnsole from './Component/Cnsole';
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <Navbar/>
       <WeatherApp/>
       <Footer/>
+      <Cnsole/>
     </>
   )
 }
