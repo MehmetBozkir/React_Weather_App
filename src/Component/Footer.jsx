@@ -23,7 +23,7 @@ function Footer() {
       <nav className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
         <a
           href="https://www.linkedin.com/in/mehmet-salih-bozk%C4%B1r/"
-          target="blank"
+          target="_blank"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -35,7 +35,7 @@ function Footer() {
             <CiLinkedin />
           </svg>
         </a>
-        <a href="https://medium.com/@mehmetsalihbozkir" target="blank">
+        <a href="https://medium.com/@mehmetsalihbozkir" target="_blank">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="44"
@@ -46,7 +46,7 @@ function Footer() {
             <FaMedium />
           </svg>
         </a>
-        <a href="https://github.com/MehmetBozkir" target="blank">
+        <a href="https://github.com/MehmetBozkir" target="_blank">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="44"
